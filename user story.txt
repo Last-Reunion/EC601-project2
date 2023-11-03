@@ -1,0 +1,26 @@
+User Stories:
+
+1.The Explorer Traveler:
+As a travel enthusiast,
+I want to enter the name of a city I plan to visit,
+So that the system can display popular tourist attractions near my area.
+
+2.The Culture-Seeking Tourist:
+As someone passionate about culture,
+I want to find museums in the city I am visiting,
+So that I can plan an educational and culturally enriching trip.
+
+3.The Outdoor Activity Planner:
+As a person who enjoys outdoor activities,
+I need to know about parks near my upcoming destination,
+So that I can include some physical activity in my travels.
+
+4.The Culinary Explorer:
+As a food lover,
+I want to find the best restaurants near my destination,
+So that I can enjoy local delicacies during my trip.
+
+5.The Efficient Traveler:
+As a traveler with a strong sense of time,
+I want a tool that can quickly recommend and locate places for me,
+So that I can visit more places within a limited timeframe.
